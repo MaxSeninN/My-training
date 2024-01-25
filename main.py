@@ -1,3 +1,1 @@
-print("Hello world")
-print('First commit')
-1234
+print(120 // 10)

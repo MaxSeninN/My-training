@@ -22,3 +22,4 @@ while result < finish:
     finish_day += 1
     print(f'{finish_day}-й день: {result:.2f}')
 print(f'На {finish_day}-й день спортсмен достигнет результата - не менее {finish} км')
+ 
